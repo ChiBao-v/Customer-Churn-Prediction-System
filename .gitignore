@@ -16,9 +16,6 @@ data/processed/
 models/*.pkl
 models/*.joblib
 
-# Reports
-reports/figures/
-
 # Jupyter
 .ipynb_checkpoints/
 
